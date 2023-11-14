@@ -5,7 +5,7 @@
     <string name="signin_password_label">Password (required)</string>
     <string name="signin_signin_btn_label">Sign in</string>
     <string name="signin_forgot_password_label">Forgot password?</string>
-    <string name="signin_dont_have_account_label">Don\'t have an account?</string>
+    <string name="signin_dont_have_account_label">───── Don\'t have an account? ─────</string>
     <string name="signin_signup_btn_label">Create a new account</string>
     <string name="signup_title">Create your account</string>
     <string name="signup_required_field_label">* required field</string>

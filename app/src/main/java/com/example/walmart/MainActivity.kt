@@ -8,6 +8,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
+import com.example.walmart.model.Product
 import com.example.walmart.model.User
 
 class MainActivity : AppCompatActivity() {
